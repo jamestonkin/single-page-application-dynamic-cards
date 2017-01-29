@@ -1,0 +1,10 @@
+#new-card {
+  float: left;
+  width: 30%;
+  border: 1px solid lightblue;
+  margin-left: 30px;
+}
+
+.the-card {
+  border-top: 1px solid lightblue;
+}
